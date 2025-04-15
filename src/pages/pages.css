@@ -1,0 +1,11 @@
+.portofolio-page{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.portofolio-page img{
+    width: 20%;
+    float: right;
+}
